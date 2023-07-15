@@ -12,3 +12,8 @@ Save the code as a .ahk then double click to run.
 3. Your character will now automatically play through the entire song :)
 
 NOTE: Timing between keys is totally off and not accurate at all, feel free to change them, it's the "Sleep" after each set of keystrokes, currently set to 300 MS for most by default.
+
+
+CREDIT:
+Dad Piano is the one who generates and makes the key sets, I just add them to an AHK script, check out his channel!
+https://www.youtube.com/@dad_piano 
